@@ -46,6 +46,8 @@ The data used for this analysis was sourced from the National Transportation Saf
 
 The dataset includes a wide range of variables essential for understanding aviation safety and risk factors. Key variables include the aircraft make and model, injury data (fatal, serious, minor injuries, and uninjured), weather conditions (e.g., Visual Meteorological Conditions (VMC), Instrument Meteorological Conditions (IMC)), the phase of flight during the accident (e.g., takeoff, cruise, landing), the date of the accident, and the geographical location of each incident. This comprehensive data allows for an in-depth analysis of aviation safety and risk factors, facilitating informed decision-making.
 
+## Visualizations
+
 ![aircraft Makes](https://github.com/Paulette-24/Phase-1-Project/assets/170407562/6ca41bdb-5aca-4674-9531-86f7cdad6e1b)
 
 This bar chart illustrates the frequency of accidents involving the top 10 aircraft makes. The chart shows that Cessna aircraft have the highest frequency of accidents, with over 20,000 incidents. This is significantly higher than the next most frequent make, Piper, which has approximately half the number of accidents as Cessna. Other aircraft makes in the top 10 include Beech, Bell, Boeing, Grumman, and Mooney. The presence of different spellings for the same manufacturer suggests a need for data cleaning to consolidate entries.
@@ -75,4 +77,7 @@ In conclusion, we have discovered key aircraft models that demonstrate lower acc
 3. Develop and implement rigorous training programs and enhanced safety protocols to mitigate risks.
      - Reason: Proactive measures in training and safety can mitigate risks and enhance the overall safety record of the aviation division.
 
-
+## Project Files
+- **Jupyter Notebook**: [View the Notebook](http://localhost:8888/lab/tree/Aviation%20Risk%20Analysis.ipynb)
+- **Project Presentation (Non-Technical)**: [View the Presentation](https://www.canva.com/design/DAGHih9jvxE/SAxxiTavItdjWjfhlsOA4A/edit?utm_content=DAGHih9jvxE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- **Project Presentation (Technical)**: [View the Presentation](https://public.tableau.com/views/AviationRiskAnalysisDashboard/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
